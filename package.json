@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "johan",
   "version": "0.1.0",
-  "description": "",
+  "description": "**Aufgabe**: Schreib ein Promise, das nach 60 Sekunden ein Overlay anzeigt.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -37,5 +37,13 @@
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/promise-modal-Abdelhamed1996.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fbw9dus/promise-modal-Abdelhamed1996/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/promise-modal-Abdelhamed1996#readme"
 }
